@@ -6,8 +6,12 @@
 | | 4 | state tests for invalid opcodes |
 | | 2 | Reviewing errors in https://github.com/ethereumjs/ethereumjs-vm/pull/174 | 
 | 8/17 | | |
+| 8/18 | | |
+| 8/19 | | |
+| 8/20 | | |
 | 8/21 | | |
-| | 8 | EthereumJS standard tracing |
+| | 2 | EthereumJS standard tracing |
+| | 5 | Blockchain test linting |
 | 8/22 | | |
 | | 8 | Blockchain test linting in TravisCI | 
 | 8/23 | | |
