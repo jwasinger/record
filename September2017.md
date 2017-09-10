@@ -10,4 +10,4 @@
 | 9/8 | 6 | | 
 | |   | Investigated EthereumJS failing BLOCKHASH tests.  EthereumJS weekly meeting.  All-core devs meeting | | 
 | 9/9 | 3 | | 
-| |   | Investigated EthereumJS failing BLOCKHASH tests.  Discovered that ethereumjs-blockchain is failing on new vesions.  Identified commit where the error appears. | | 
+| |   | Investigated EthereumJS failing BLOCKHASH tests.  Discovered that ethereumjs-blockchain is failing on master branch.  Identified commit where the error appears. | | 
