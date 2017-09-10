@@ -7,3 +7,7 @@
 | | 8 | investigated issue with EthereumJS failing blockchain tests under EIP158.  identified '34b2756789401b3f8338f1afb10f02d2de236a72' as the revision where error was introduced. | 
 | 9/6 | 8 | | 
 | |   | Investigated EthereumJS failing BLOCKHASH tests.  Cleanup and updates for Ethereumjs-testing| | 
+| 9/8 | 6 | | 
+| |   | Investigated EthereumJS failing BLOCKHASH tests.  EthereumJS weekly meeting.  All-core devs meeting | | 
+| 9/9 | 3 | | 
+| |   | Investigated EthereumJS failing BLOCKHASH tests.  Discovered that ethereumjs-blockchain is failing on new vesions.  Identified commit where the error appears. | | 
