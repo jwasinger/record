@@ -14,5 +14,5 @@
 | |   | Fix for race condition in ethereumjs-blockchain: ... .  Implementation of EIP 698 | | 
 | 9/11 | 8 | |
 | |  | Debugging error with Byzantium receipt root (ethereumjs).  Investigate implementation of transaction receipt tracing in testeth. | |
-| 9/12 | | |
+| 9/12 | 9 | |
 | |  | Work on EthereumJS docker image, trace equivalence testing.  Fix trie-receipts for Byzantium implementation | |
