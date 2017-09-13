@@ -10,3 +10,9 @@
 | |   | Investigated EthereumJS failing BLOCKHASH tests.  EthereumJS weekly meeting.  All-core devs meeting | | 
 | 9/9 | 3 | | 
 | |   | Investigated EthereumJS failing BLOCKHASH tests.  Discovered that ethereumjs-blockchain is failing on master branch.  Identified commit where the error appears. | | 
+| 9/10 | 6 | | 
+| |   | Fix for race condition in ethereumjs-blockchain: ... .  Implementation of EIP 698 | | 
+| 9/11 | 8 | |
+| |  | Debugging error with Byzantium receipt root (ethereumjs).  Investigate implementation of transaction receipt tracing in testeth. | |
+| 9/12 | | |
+| |  | Work on EthereumJS docker image, trace equivalence testing.  Fix trie-receipts for Byzantium implementation | |
