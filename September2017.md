@@ -67,3 +67,9 @@ Hours: 8
 Hours: 6
   - Creation of a meta issue to describe progress of Byzantium implementation of EthereumJS-VM: https://github.com/ethereumjs/ethereumjs-vm/issues/209
   - Discussion and formulation of a release process for Byzantium implementation of EthereumJS-VM
+
+### 9/22
+Hours: 6
+  - All Core Devs meeting
+  - EthereumJS meeting
+  - https://github.com/ethereum/cpp-ethereum/pull/4542
