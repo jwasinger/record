@@ -73,3 +73,11 @@ Hours: 6
   - All Core Devs meeting
   - EthereumJS meeting
   - https://github.com/ethereum/cpp-ethereum/pull/4542
+
+### 9/24
+Hours: 2
+  - Verification of EthereumJS Byzantium Changes: {{repo here}}
+
+### 9/25
+Hours: 8
+  - Verification of EthereumJS Byzantium Changes: {{repo here}}
