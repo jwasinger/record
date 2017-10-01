@@ -20,7 +20,7 @@ Hours: 3
 ### 9/10 
 Hours: 6
   - Fix for race condition in ethereumjs-blockchain: ...   
-  - Implementation of EIP 698 
+  - Implementation of EIP 698
 ### 9/11 
 Hours: 8
   - Debugging error with Byzantium receipt root (ethereumjs).  
@@ -76,8 +76,12 @@ Hours: 6
 
 ### 9/24
 Hours: 2
-  - Verification of EthereumJS Byzantium Changes: {{repo here}}
+  - Verification of EthereumJS Byzantium Changes: https://github.com/jwasinger/web3_playground
 
 ### 9/25
 Hours: 8
-  - Verification of EthereumJS Byzantium Changes: {{repo here}}
+  - Verification of EthereumJS Byzantium Changes: https://github.com/jwasinger/web3_playground
+
+### 9/26
+Hours: 8
+  - Set up Rust environment.  Researching Browserify/Emscripten to debug https://github.com/ethereum/browser-solidity/issues/828
