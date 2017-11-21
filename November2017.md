@@ -23,4 +23,38 @@ Hours: 4
 ## 11/13
 Hours: 8
  - studying libp2p connection implementation to understand relationship between connection and transport
- - studying libp2p multiplexing
+ - studying libp2p multiplexing implementation
+
+## 11/14
+Hours: 4
+ - studying Go ethereum p2p/eth implementation to measure scope of work for implementing pluggable networking:
+     I.e. the ability to use libp2p, devp2p or both (bridge mode) as a networking backend in geth
+
+## 11/15
+Hours: 4
+ - studying Go ethereum p2p/eth implementation to measure scope of work for implementing pluggable networking:
+     I.e. the ability to use libp2p, devp2p or both (bridge mode) as a networking backend in geth
+
+## 11/16
+Hours: 5
+ - studying Go ethereum p2p/eth implementation to measure scope of work for implementing pluggable networking:
+     I.e. the ability to use libp2p, devp2p or both (bridge mode) as a networking backend in geth
+
+## 11/17
+Hours: 5
+ - studying Go ethereum p2p/eth implementation to measure scope of work for implementing pluggable networking:
+     I.e. the ability to use libp2p, devp2p or both (bridge mode) as a networking backend in geth
+
+## 11/18
+Hours: 6
+ - studying Go ethereum p2p/eth implementation to measure scope of work for implementing pluggable networking:
+     I.e. the ability to use libp2p, devp2p or both (bridge mode) as a networking backend in geth
+
+## 11/19
+Hours: 8
+ - studying Go ethereum p2p/eth implementation to measure scope of work for implementing pluggable networking:
+     I.e. the ability to use libp2p, devp2p or both (bridge mode) as a networking backend in geth
+
+## 11/20
+Hours: 8
+ - Adapting Geth p2p implementation for use in https://github.com/ipfs/go-ipld-eth-bridge, with the immediate goal of isolating the necessary code to do a full blockchain sync from the devp2p network
