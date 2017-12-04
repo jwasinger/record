@@ -59,3 +59,34 @@ Hours: 8
 Hours: 8
  - Adapting Geth p2p implementation for use in https://github.com/ipfs/go-ipld-eth-bridge, with the immediate goal of isolating the necessary code to do a full blockchain sync from the devp2p network
  - Trying to isolate __ProtocolManager__ from __eth/handler.go__ and run it standalone (without the rest of Geth)
+
+## 11/21
+Hours: 0
+
+## 11/22
+Hours: 0
+
+## 11/23
+Hours: 8
+ - modexp tests: ${PR}
+
+## 11/24
+
+## 11/25
+
+## 11/26
+
+## 11/27
+
+## 11/28
+Hours: 2
+ - EthereumJSVM/EWASM Integration with state tests.  Working branch:  ...
+
+## 11/29
+Hours: 6
+ - EthereumJSVM/EWASM Integration with state tests.  Working branch:  ...
+
+## 11/30
+Hours: 8
+ - Creating test for ethereumjs#225
+ - EthereumJSVM/EWASM Integration with state tests.  Working branch:  ...
