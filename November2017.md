@@ -61,6 +61,7 @@ Hours: 8
  - Trying to isolate __ProtocolManager__ from __eth/handler.go__ and run it standalone (without the rest of Geth)
 
 ## 11/21
+<<<<<<< HEAD
 Hours: 0
 
 ## 11/22
@@ -68,9 +69,12 @@ Hours: 0
 
 ## 11/23
 Hours: 8
- - modexp tests: ${PR}
+ - Adapting Geth p2p implementation for use in https://github.com/ipfs/go-ipld-eth-bridge, with the immediate goal of isolating the necessary code to do a full blockchain sync from the devp2p network
+ - Trying to isolate __ProtocolManager__ from __eth/handler.go__ and run it standalone (without the rest of Geth)
 
 ## 11/24
+Hours: 8
+ - https://github.com/ethereum/tests/pull/372
 
 ## 11/25
 
