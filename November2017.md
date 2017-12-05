@@ -4,13 +4,12 @@ Hours: 0
 ### 11/2
 Hours: 0
 
-
 ### 11/3
 Hours: 2.5
  - eWasm code study
 
 ### 11/4
-Hours: ...
+Hours: 0
 
 ### 11/11
 Hours: 1.5
@@ -61,7 +60,6 @@ Hours: 8
  - Trying to isolate __ProtocolManager__ from __eth/handler.go__ and run it standalone (without the rest of Geth)
 
 ## 11/21
-<<<<<<< HEAD
 Hours: 0
 
 ## 11/22
@@ -74,7 +72,7 @@ Hours: 8
 
 ## 11/24
 Hours: 8
- - https://github.com/ethereum/tests/pull/372
+ - Modexp tests: https://github.com/ethereum/tests/pull/372
 
 ## 11/25
 
@@ -84,13 +82,13 @@ Hours: 8
 
 ## 11/28
 Hours: 2
- - EthereumJSVM/EWASM Integration with state tests.  Working branch:  ...
+ - EthereumJSVM/EWASM Integration with state tests.  Working branch: https://github.com/jwasinger/ethereumjs-vm#broken-ewasm
 
 ## 11/29
 Hours: 6
- - EthereumJSVM/EWASM Integration with state tests.  Working branch:  ...
+ - EthereumJSVM/EWASM Integration with state tests.  Working branch: https://github.com/jwasinger/ethereumjs-vm#broken-ewasm
 
 ## 11/30
 Hours: 8
  - Creating test for ethereumjs#225
- - EthereumJSVM/EWASM Integration with state tests.  Working branch:  ...
+ - EthereumJSVM/EWASM Integration with state tests.  Working branch: https://github.com/jwasinger/ethereumjs-vm#broken-ewasm
