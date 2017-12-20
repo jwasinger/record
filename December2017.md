@@ -46,3 +46,37 @@ Hours: 8
 Hours: 2
 ### EthereumJS:
  - PR reviews
+
+## 12/14
+Hours:
+### EthereumJS:
+ ...
+
+### 12/15
+Hours: 4
+
+## 12/15
+Hours: 
+
+## 12/16
+Hours: 4
+### EthereumJS:
+ - Fix to make ewasm-transcompiled state tests valid: https://github.com/jwasinger/ewasm-tests
+ - PR review
+
+## 12/17
+Hours: 4
+### Testing
+ - trace equivalence tester for ethereumjs-vm
+
+## 12/18
+Hours: 8
+### EthereumJS:
+ - investigating https://github.com/ethereumjs/ethereumjs-vm/pull/159, working on fixing some issues I caused during a faulty rebase
+
+## 12/19
+Hours: 8
+### EWASM:
+ - weekly meeting
+ - looking at evm2wasm prototype to determine how to port to C
+ - seeing which parts of ethereumJS can be extracted and used in ewasm-kernel (statemanager, runState -> environment)
