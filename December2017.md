@@ -80,3 +80,24 @@ Hours: 8
  - weekly meeting
  - looking at evm2wasm prototype to determine how to port to C
  - seeing which parts of ethereumJS can be extracted and used in ewasm-kernel (statemanager, runState -> environment)
+
+## 12/20
+Hours: 8
+### EthereumJS
+ - PR Reviews for ethereumjs-vm and ethereumjs-tx
+
+# 12/21
+Hours: 3
+### EWASM
+ - eWasm debugging call with @cdetrio and @hugo-dc
+
+# 12/26
+Hours: 6
+### EWASM
+ - trying to figure out how to get a loop to work in eWASM.
+ - Figuring out how to transcompile C to eWASM
+
+# 12/27
+Hours: 2
+### EWASM
+ - spent time trying to figure out how to get simple loop working before realizing that I was using an older version of wabt to compile ...
