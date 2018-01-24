@@ -71,3 +71,18 @@ Hours: 4
 Hours: 10
  - Working on refactoring eWASM tests, fixing my bad force push :(
  - Debugging issue with cpp-ethereum transaction on macosx
+
+### 1/22
+#### Testing
+Hours: 6
+ - Writing EWASM Test Cases, auditing existing ones
+
+### 1/23
+#### Testing
+Hours: 8
+ - Writing EWASM Test Cases, auditing existing ones
+
+### 1/24
+#### Testing
+Hours: 8
+ - Writing EWASM Test Cases, auditing existing ones
