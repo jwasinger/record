@@ -53,3 +53,22 @@ Hours: 10
  - working on running state tests suite through hera 
  - Working on Hera in docker container
  - Debugging why cpp-eth/Hera wasn't mining any blocks (had to rebuild from scratch which fixed the issue....)
+
+### 2/19
+#### EWASM
+Hours: 2
+ - Working on cpp-eth/hera/jsonrpcproxy running in docker.  Trying to solve IPC issue where pythonrpcproxy on host cannot communicate with socket mounted from container
+
+### 2/21
+Hours: 2.5
+ - Working on cpp-eth/hera/jsonrpcproxy running in docker.  Trying to solve IPC issue where pythonrpcproxy on host cannot communicate with socket mounted from container
+
+### 2/23
+Hours: 2.5
+ - All Core Devs meeting
+ - researching Blake2B hash function
+
+### 2/24
+Hours: 4
+ - Brainstorming ways to compare speed of cpp-ethereum's keccak implementation to a WASM implementation that @axic wrote, realized that the WASM opcodes themselves should be benchmarked.
+ - Started an implementation of debug benchmarking calls in Hera only to realize that it is not useful
