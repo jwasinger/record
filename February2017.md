@@ -72,3 +72,26 @@ Hours: 2.5
 Hours: 4
  - Brainstorming ways to compare speed of cpp-ethereum's keccak implementation to a WASM implementation that @axic wrote, realized that the WASM opcodes themselves should be benchmarked.
  - Started an implementation of debug benchmarking calls in Hera only to realize that it is not useful
+
+### 2/25
+Hours: 7.5
+ - Working on C contract demo: Trying to get a working build using Emscripten
+ - Setting up testnet demo: automated installation, generation of cpp config
+
+### 2/26
+Hours: 9.5
+ - EWASM Meeting
+ - Working on C contract demo
+
+### 2/27
+### EWASM
+Hours: 8
+ - EWASM Meeting
+ - EthCC Demo: managed to build correctly
+ - Playing with rust demos
+ - Accidentally wrecked azure development environment, spent several hours trying to get clang into a working state again
+
+### 2/27
+### EWASM
+Hours: 10
+ - EthCC Demo
