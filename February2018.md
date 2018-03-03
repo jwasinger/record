@@ -13,20 +13,14 @@ Hours: 8
  - Researching stateless client material.  Reading {asynchronous accumulators paper}
 
 ### 2/4:
-#### EWASM
-Hours:
- - 4
-
-### 2/5
-#### EWASM
-Hours: 
+#### Tests
+Hours: 4
+ - fix filler for codeCopyOffset case, change location
 
 ### 2/8
 Hours: 9.5
-
 #### EthereumJS
  - Trying to solve test failures in new modexp test cases
-
 #### Other/Go-ethereum
  - Added SHR opcode to go-ethereum: https://github.com/jwasinger/go-ethereum/tree/constantinople
 
@@ -60,25 +54,30 @@ Hours: 2
  - Working on cpp-eth/hera/jsonrpcproxy running in docker.  Trying to solve IPC issue where pythonrpcproxy on host cannot communicate with socket mounted from container
 
 ### 2/21
+#### EWASM
 Hours: 2.5
  - Working on cpp-eth/hera/jsonrpcproxy running in docker.  Trying to solve IPC issue where pythonrpcproxy on host cannot communicate with socket mounted from container
 
 ### 2/23
+#### EWASM
 Hours: 2.5
  - All Core Devs meeting
  - researching Blake2B hash function
 
 ### 2/24
+#### EWASM
 Hours: 4
  - Brainstorming ways to compare speed of cpp-ethereum's keccak implementation to a WASM implementation that @axic wrote, realized that the WASM opcodes themselves should be benchmarked.
  - Started an implementation of debug benchmarking calls in Hera only to realize that it is not useful
 
 ### 2/25
+#### EWASM
 Hours: 7.5
  - Working on C contract demo: Trying to get a working build using Emscripten
  - Setting up testnet demo: automated installation, generation of cpp config
 
 ### 2/26
+#### EWASM
 Hours: 9.5
  - EWASM Meeting
  - Working on C contract demo
@@ -92,6 +91,16 @@ Hours: 8
  - Accidentally wrecked azure development environment, spent several hours trying to get clang into a working state again
 
 ### 2/27
+### EWASM
+Hours: 10
+ - EthCC Demo
+
+### 2/28
+### EWASM
+Hours: 8
+ - EthCC Demo
+
+### 2/29
 ### EWASM
 Hours: 10
  - EthCC Demo
